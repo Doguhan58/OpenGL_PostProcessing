@@ -1,0 +1,2 @@
+C:\Users\Doguhan\OneDrive - Heinrich-Heine-Universitat Dusseldorf\Studium\Semester 5\3D\OpenGL\OpenGL\x64\Debug\OpenGL.exe
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\x64\Debug\OpenGL.exe

@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/doguhan/onedrive - heinrich-heine-universitat dusseldorf/studium/semester 5/3d/opengl/opengl/dependencies/src/glad.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "9507abceac1c1c66dd71ebf21189b3e4fad5112f9ca7db0e48521ff33c5a6dc2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/doguhan/onedrive - heinrich-heine-universitat dusseldorf/studium/semester 5/3d/opengl/opengl/dependencies/glfw/include/glad/glad.h"
+          },
+          "hashes": {
+            "sha-256": "391821a6efb3575c007d65f333bfd1d2fa842c86499431fc18398a1d029e1ea2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/doguhan/onedrive - heinrich-heine-universitat dusseldorf/studium/semester 5/3d/opengl/opengl/dependencies/glfw/include/khr/khrplatform.h"
+          },
+          "hashes": {
+            "sha-256": "7b1e01aaa7ad8f6fc34b5c7bdf79ebf5189bb09e2c4d2e79fc5d350623d11e83"
+          }
+        }
+      ]
+    }
+  ]
+}

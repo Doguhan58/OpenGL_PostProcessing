@@ -1,0 +1,42 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Application.cpp
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(183,27): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(185,22): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  Bloom.cpp
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,46): warning C4244: "Argument": Konvertierung von "const T" in "GLsizei", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,46): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,46): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,46): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,46): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,34): warning C4244: "Argument": Konvertierung von "const T" in "GLsizei", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,34): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,34): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,34): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(411,34): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,54): warning C4244: "Argument": Konvertierung von "const T" in "GLsizei", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,54): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,54): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,54): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,54): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,38): warning C4244: "Argument": Konvertierung von "const T" in "GLsizei", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,38): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,38): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,38): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Bloom.cpp(444,38): warning C4244:         ]
+  postprocessing.cpp
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(93,46): warning C4244: "Argument": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(93,39): warning C4244: "Argument": Konvertierung von "int" in "GLfloat", möglicher Datenverlust
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(176,24): warning C4267: "=": Konvertierung von "size_t" nach "GLint", Datenverlust möglich
+  shader.cpp
+  Ssao.cpp
+  stb_image.cpp
+  Code wird generiert...
+  glad.c
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  OpenGL.vcxproj -> C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\x64\Debug\OpenGL.exe

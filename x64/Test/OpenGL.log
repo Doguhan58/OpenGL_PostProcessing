@@ -1,0 +1,39 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Application.cpp
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,46): warning C4244: 'argument': conversion from 'const T' to 'GLsizei', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,46): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,46): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,46): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,46): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,34): warning C4244: 'argument': conversion from 'const T' to 'GLsizei', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,34): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,34): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,34): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(259,34): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,54): warning C4244: 'argument': conversion from 'const T' to 'GLsizei', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,54): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,54): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,54): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,54): warning C4244:         ]
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,38): warning C4244: 'argument': conversion from 'const T' to 'GLsizei', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,38): warning C4244:         with
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,38): warning C4244:         [
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,38): warning C4244:             T=float
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\Application.cpp(299,38): warning C4244:         ]
+  Chapter1.cpp
+  postprocessing.cpp
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(93,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\src\postprocessing.cpp(176,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  shader.cpp
+  stb_image.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> C:\Users\Doguhan\Desktop\3d_seminar_postprocessing\OpenGL\x64\Test\OpenGL.exe

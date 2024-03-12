@@ -1,0 +1,22 @@
+# Blender 4.0.2 MTL File: 'GameLevel_present.blend'
+# www.blender.org
+
+newmtl hex.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.038204 0.391573 0.863157
+Ks 0.000000 0.000000 0.000000
+Ke 0.038204 0.391573 0.863157
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl lpb_gradient
+Ns 62.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Pallete.png
