@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\kernel_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\postprocessing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:src\\postprocessing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\outline\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\outline\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\film_grain\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\film_grain\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\lethal\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\lethal\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\vignette_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\vignette_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\raw_noeffect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\raw_noeffect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\sharpen\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\sharpen\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\posterize\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\posterize\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\pixelize\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\pixelize\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\kernel_and_wave_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\kernel_and_wave_effect\\postprocessing.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\inverse_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\inverse_effect\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\box_blur\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6D3BB53F-984E-40EC-A140-42C06A7D96E4}|OpenGL.vcxproj|solutionrelative:shaders\\box_blur\\postprocessing.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "postprocessing.cpp",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\postprocessing.cpp",
+              "RelativeDocumentMoniker": "src\\postprocessing.cpp",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\postprocessing.cpp",
+              "RelativeToolTip": "src\\postprocessing.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T14:17:33.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_effect\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\kernel_effect\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_effect\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\kernel_effect\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T13:35:19.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\film_grain\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\film_grain\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\film_grain\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\film_grain\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:36:08.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\lethal\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\lethal\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\lethal\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\lethal\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:35:56.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\vignette_effect\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\vignette_effect\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\vignette_effect\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\vignette_effect\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:35:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\sharpen\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\sharpen\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\sharpen\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\sharpen\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:35:03.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\raw_noeffect\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\raw_noeffect\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\raw_noeffect\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\raw_noeffect\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:35:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\posterize\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\posterize\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\posterize\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\posterize\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\pixelize\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\pixelize\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\pixelize\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\pixelize\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\kernel_and_wave_effect\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\kernel_and_wave_effect\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "postprocessing.vs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.vs",
+              "RelativeDocumentMoniker": "shaders\\kernel_and_wave_effect\\postprocessing.vs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\kernel_and_wave_effect\\postprocessing.vs",
+              "RelativeToolTip": "shaders\\kernel_and_wave_effect\\postprocessing.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\inverse_effect\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\inverse_effect\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\inverse_effect\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\inverse_effect\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:34.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\outline\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\outline\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\outline\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\outline\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "src\\Application.cpp",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\src\\Application.cpp",
+              "RelativeToolTip": "src\\Application.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T12:34:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "postprocessing.fs",
+              "DocumentMoniker": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\box_blur\\postprocessing.fs",
+              "RelativeDocumentMoniker": "shaders\\box_blur\\postprocessing.fs",
+              "ToolTip": "C:\\Users\\Doguhan\\Desktop\\3d_seminar_postprocessing\\OpenGL\\shaders\\box_blur\\postprocessing.fs",
+              "RelativeToolTip": "shaders\\box_blur\\postprocessing.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T12:34:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
